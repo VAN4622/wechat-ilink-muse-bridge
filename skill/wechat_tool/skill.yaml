@@ -1,0 +1,5 @@
+name: "wechat_tool"
+title: "WeChat as a Main-Session Tool"
+description: "Use when a WeChat message from the user arrives through the iLink bridge, or when the main agent needs to read or send WeChat messages itself."
+category: "Work and knowledge"
+include_in_prompt: true
